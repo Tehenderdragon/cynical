@@ -1,6 +1,6 @@
 /*BEGIN PS4 Controller Styling*/
 .controller.custom{
-    background: url(cynical.png);
+    background: url(cynical1.png);
     height: 598px;
     width: 806px;
 }
@@ -110,7 +110,7 @@
      position: absolute;
     width: 55px;
     height: 55px;
-    background: url(face.png);
+    background: url(face1.png);
 }
 .custom .button.pressed{
      background-position-y: 55px;
